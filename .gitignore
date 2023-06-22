@@ -1,0 +1,11 @@
+# Directories
+env
+var
+log
+**/__pycache__
+# Files
+secret_config.py
+garage.ipynb
+bin/bootstrap_containers.sh
+docker-compose.yml
+

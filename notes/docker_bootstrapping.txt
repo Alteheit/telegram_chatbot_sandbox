@@ -1,0 +1,6 @@
+# PGVector
+CREATE EXTENSION vector;
+
+# Redis
+CONFIG SET requirepass "ite_assistant_redis_password"
+SLAVEOF NO ONE
